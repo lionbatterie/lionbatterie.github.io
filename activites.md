@@ -1,6 +1,4 @@
----
-title: Activités
----
+
 
 # Nos activités
 
