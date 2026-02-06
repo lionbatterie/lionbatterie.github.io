@@ -1,7 +1,8 @@
 
 
 
-![logo](assets/images/logo li-on.png)
+<img src="assets/images/logo li-on.png" width="220" alt="Logo LI/ON">
+
 
 
 
