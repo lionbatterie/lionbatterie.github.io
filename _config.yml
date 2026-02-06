@@ -2,6 +2,14 @@ title: LI/ON
 description: Solutions industrielles de réparation, régénération et reconditionnement de batteries
 theme: minima
 
+author:
+  name: LI/ON
+  email: contact@li-on.fr
+
+footer_text: >
+  © LI/ON – Projet industriel porté par Yzelios.
+  Site à vocation informative – version transitoire.
+
 header_pages:
   - index.md
   - solution.md
