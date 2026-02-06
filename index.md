@@ -1,7 +1,7 @@
 
 
 
-![logo](assets/images/logo3.PNG)
+![logo](assets/images/esquisse logo 1.PNG)
 
 
 
