@@ -1,7 +1,7 @@
 
 
 
-![logo](assets/images/logo li-on.png.PNG)
+![logo](assets/images/logo li-on.png)
 
 
 
